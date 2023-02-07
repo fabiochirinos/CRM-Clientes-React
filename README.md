@@ -6,7 +6,7 @@
 
 Para iniciar la aplicación, debes ejecutar el comando `npm run dev` en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado `ctrl + ñ` si tu teclado está en español y con `` ctrl + `  `` si tu teclado está en inglés.
 
-La aplicación se abrirá automáticamente en el navegador configurado por defecto en tu dispositivo y se ejecutará.
+La aplicación se abrirá automáticamente en el navegador configurado por defecto en tu dispositivo y se ejecutará. Para iniciar el servidor Json debe ejecutar el comando `json-server --watch db.json`
 
 ## Instalar Módulos
 
